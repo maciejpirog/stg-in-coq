@@ -1,7 +1,7 @@
 # stg-in-coq
 Towards a formally verified Haskell compiler
 
-This repository contains things I worked on for my MSc project: first steps towards a Coq-verified compiler for a call-by-need language via the [STG machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf). These things come from __2010__ (:warning:), but it seems there's not been much progress in this direction since then.
+This repository contains things I worked on for my MSc project: first steps towards a Coq-verified compiler for a call-by-need language via the [STG machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf). These things come from __2010__ (:exclamation:), but it seems there's not been much progress in this direction since then.
 
 Here, you'll find two separate projects:
 
